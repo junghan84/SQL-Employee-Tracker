@@ -1,5 +1,5 @@
 -- Select employee_db as the database to utilize and perform SQL operations on
-USE employee_db;
+USE tracker_db;
 
 -- Insert the following items to table department
 INSERT INTO department(dept_name)

@@ -1,9 +1,9 @@
 -- Initialize and Configure Database
-DROP DATABASE IF EXISTS employee_db;
-CREATE database employee_db;
+DROP DATABASE IF EXISTS tracker_db;
+CREATE database tracker_db;
 
 -- Select employee_db as the database to utilize and perform SQL operations on
-USE employee_db;
+USE tracker_db;
 
 -- Create table department
 CREATE TABLE department (
