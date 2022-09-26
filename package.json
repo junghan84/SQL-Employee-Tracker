@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/junghan84/SQL-Employee-Tracker#readme",
   "dependencies": {
-    "inquirer": "^9.1.2",
+    "inquirer": "^8.2.4",
     "mysql": "^2.18.1"
   }
 }
